@@ -22,8 +22,8 @@ title: This is my first blog
 email: 123456789@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   上帝不会掷骰子
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
+url: "https://zzj1965186613.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 咳咳
 github_username:  zzj1965186613
 
