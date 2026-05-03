@@ -1,0 +1,8 @@
+---
+layout: post
+title: "我的第二篇博客"
+date: 2026-05-03
+categories: blog
+---
+
+这是我的第二篇 Jekyll 博客文章！
