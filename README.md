@@ -1,89 +1,111 @@
-﻿# Blog
+# Blog 📝
 
-My personal blog built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://zzj1965186613.github.io/Blog).
+A technical blog built with Ruby, focusing on web development, programming tutorials, and technology insights.
 
-**Theme:** [Minima](https://github.com/jekyll/minima)
+## ✨ Features
 
----
+- **Static Site Generation** - Fast, secure static website
+- **Markdown Support** - Write content in Markdown
+- **Responsive Design** - Mobile-friendly layout
+- **SEO Optimized** - Search engine friendly structure
+- **Syntax Highlighting** - Beautiful code blocks
 
-## Live Site
-
-[https://zzj1965186613.github.io/Blog](https://zzj1965186613.github.io/Blog)
-
----
-
-## Posts
-
-| Date | Title |
-|------|-------|
-| 2026-05-01 | 我的第一篇博客 |
-| 2026-05-02 | Welcome to Jekyll! |
-| 2026-05-03 | 我的第二篇博客 |
-
----
-
-## Local Development
-
-### Prerequisites
-
-- Ruby (v3.0+ recommended)
-- Bundler
-
-### Setup
+## 🚀 Quick Start
 
 ```bash
+# Clone the repository
 git clone https://github.com/zzj1965186613/Blog.git
+
+# Navigate to the project directory
 cd Blog
+
+# Install dependencies
 bundle install
-```
 
-### Serve Locally
-
-```bash
+# Start local server
 bundle exec jekyll serve
 ```
 
-Or on Windows, run `serve.bat`.
+## 🛠️ Tech Stack
 
-The site will be available at `http://localhost:4000/Blog`.
+- **Language**: Ruby
+- **Framework**: Jekyll
+- **Styling**: SCSS/CSS
+- **Deployment**: GitHub Pages ready
 
-### Deploy
+## 📝 Writing Posts
 
-Push to `master` branch to trigger GitHub Pages deployment, or run:
+Create new posts in the `_posts` directory:
 
+```markdown
+---
+layout: post
+title: "Your Post Title"
+date: 2026-06-12
+categories: [technology, programming]
+tags: [ruby, jekyll, blog]
+---
+
+Your content here...
+```
+
+## 📁 Project Structure
+
+```
+Blog/
+├── _posts/             # Blog posts in Markdown
+├── _layouts/           # Page layouts
+├── _includes/          # Reusable components
+├── assets/             # CSS, JS, images
+├── _config.yml         # Site configuration
+└── index.html          # Homepage
+```
+
+## 🎨 Customization
+
+Edit `_config.yml` to customize:
+
+```yaml
+title: Your Blog Title
+description: A blog about technology
+author: Your Name
+url: https://yourusername.github.io
+```
+
+## 🚀 Deployment
+
+### GitHub Pages
+1. Push to `main` branch
+2. Enable GitHub Pages in repository settings
+3. Your blog will be live at `https://zzj1965186613.github.io`
+
+### Local Development
 ```bash
-git push origin master
+# Watch for changes
+bundle exec jekyll serve --watch
+
+# Build for production
+bundle exec jekyll build
 ```
 
-Or on Windows, run `push.bat`.
+## 📚 Resources
+
+- [Jekyll Documentation](https://jekyllrb.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [GitHub Pages](https://pages.github.com/)
+
+## 🤝 Contributing
+
+Found a typo or want to improve a post? Contributions welcome!
+
+1. Fork the repository
+2. Make your changes
+3. Submit a pull request
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## Structure
-
-```
-├── _posts/          # Blog posts (Markdown)
-├── _config.yml      # Jekyll configuration
-├── Gemfile          # Ruby dependencies
-├── index.markdown   # Home page
-├── about.markdown   # About page
-└── 404.html         # Custom 404 page
-```
-
----
-
-## Configuration
-
-Key settings in `_config.yml`:
-
-- **title:** This is my first blog
-- **email:** 123456789@hotmail.com
-- **description:** 上帝不会掷骰子
-- **baseurl:** `/Blog`
-- **url:** `https://zzj1965186613.github.io`
-
----
-
-## License
-
-MIT
+⭐️ Star this repo if you enjoy the content!
