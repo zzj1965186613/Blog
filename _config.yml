@@ -30,13 +30,6 @@ github_username:  zzj1965186613
 # Build settings
 theme: minima
 
-# Override minima's default layouts with our custom ones
-layouts:
-  default: default
-  home: home
-  page: page
-  post: post
-
 plugins:
   - jekyll-feed
 
