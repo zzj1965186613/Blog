@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-title">{{ site.title }}</h1>
+    <p class="hero-description">{{ site.description }}</p>
+  </div>
+</section>
+
+<section class="post-list">
+  <div class="container">
+    <h2 class="section-title">Latest Posts</h2>
+
+    <div class="post-cards">
+      {% for post in site.posts %}
+      <article class="post-card">
+        <div class="post-card-content">
+          <h3 class="post-card-title">
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </h3>
+          <div class="post-card-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%B %-d, %Y" }}
+            </time>
+            {% if post.categories.size > 0 %}
+            <span class="post-card-categories">
+              {% for cat in post.categories %}
+              <span class="category-tag">{{ cat }}</span>
+              {% endfor %}
+            </span>
+            {% endif %}
+          </div>
+          {% if post.excerpt %}
+          <p class="post-card-excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncate: 150 }}</p>
+          {% endif %}
+          <a class="post-card-link" href="{{ site.baseurl }}{{ post.url }}">Read more →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

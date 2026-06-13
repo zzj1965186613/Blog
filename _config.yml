@@ -20,7 +20,7 @@
 
 title: This is my first blog
 email: 123456789@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   上帝不会掷骰子
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://zzj1965186613.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,6 +29,14 @@ github_username:  zzj1965186613
 
 # Build settings
 theme: minima
+
+# Override minima's default layouts with our custom ones
+layouts:
+  default: default
+  home: home
+  page: page
+  post: post
+
 plugins:
   - jekyll-feed
 
