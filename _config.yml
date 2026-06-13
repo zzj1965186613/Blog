@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: This is my first blog
+title: "Tech Pulse | 科技脉搏"
 email: 123456789@hotmail.com
 description: >-
-  上帝不会掷骰子
+  探索前沿开源项目，记录技术灵感
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://zzj1965186613.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 咳咳
