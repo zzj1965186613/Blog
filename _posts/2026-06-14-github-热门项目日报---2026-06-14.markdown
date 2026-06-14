@@ -1,0 +1,135 @@
+---
+layout: post
+title: "GitHub 热门项目日报 - 2026-06-14"
+date: 2026-06-14
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 HTML TypeScript Shell Swift C++]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) 🥇
+
+**暂无描述**
+
+- ⭐ **Stars:** 8,010
+- 🍴 **Forks:** 665
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-10
+- 🔗 **地址:** [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+
+---
+
+## 2. [shadcn/improve](https://github.com/shadcn/improve) 🥈
+
+**Use your most capable model to audit your codebase and write plans for cheaper models to execute.**
+
+- ⭐ **Stars:** 3,552
+- 🍴 **Forks:** 128
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-10
+- 🔗 **地址:** [shadcn/improve](https://github.com/shadcn/improve)
+
+---
+
+## 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 🥈
+
+**Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.**
+
+- ⭐ **Stars:** 1,652
+- 🍴 **Forks:** 75
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-12
+- 🏷️ **话题:** `agent-skills`, `ai-agents`, `claude`, `claude-code`, `claude-code-plugin`
+- 🔗 **地址:** [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+---
+
+## 4. [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) 🥈
+
+**RoguePlanet Windows Defender Vulnerability**
+
+- ⭐ **Stars:** 1,255
+- 🍴 **Forks:** 519
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-06-09
+- 🔗 **地址:** [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
+
+---
+
+## 5. [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) 🥈
+
+**国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon**
+
+- ⭐ **Stars:** 1,041
+- 🍴 **Forks:** 53
+- 💻 **语言:** Shell
+- 📅 **创建日期:** 2026-06-10
+- 🏷️ **话题:** `apple-intelligence`
+- 🔗 **地址:** [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)
+
+---
+
+## 6. [apple/coreai-models](https://github.com/apple/coreai-models) ⭐
+
+**Model export recipes, Python primitives, and Swift runtime utilities for on-device AI**
+
+- ⭐ **Stars:** 874
+- 🍴 **Forks:** 64
+- 💻 **语言:** Swift
+- 📅 **创建日期:** 2026-06-08
+- 🔗 **地址:** [apple/coreai-models](https://github.com/apple/coreai-models)
+
+---
+
+## 7. [plannotator/effective-html](https://github.com/plannotator/effective-html) ⭐
+
+**Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.**
+
+- ⭐ **Stars:** 755
+- 🍴 **Forks:** 49
+- 💻 **语言:** HTML
+- 📅 **创建日期:** 2026-06-09
+- 🏷️ **话题:** `agent-skills`, `skills`
+- 🔗 **地址:** [plannotator/effective-html](https://github.com/plannotator/effective-html)
+
+---
+
+## 8. [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) ⭐
+
+**Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.**
+
+- ⭐ **Stars:** 627
+- 🍴 **Forks:** 15
+- 💻 **语言:** Shell
+- 📅 **创建日期:** 2026-06-12
+- 🔗 **地址:** [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
+
+---
+
+## 9. [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 605
+- 🍴 **Forks:** 137
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-10
+- 🔗 **地址:** [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
+
+---
+
+## 10. [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL) ⭐
+
+**UniRL is a Framework for Unified Multimodal Model Reinforcement Learning**
+
+- ⭐ **Stars:** 582
+- 🍴 **Forks:** 32
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-08
+- 🏷️ **话题:** `ai-infrastructure`, `reinforcement-learning`, `sglang`, `vllm`
+- 🔗 **地址:** [Tencent-Hunyuan/UniRL](https://github.com/Tencent-Hunyuan/UniRL)
+
+---
+
+*生成时间: 2026-06-14 12:40 | 由 Hermes Agent 自动生成 🤖*
