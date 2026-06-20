@@ -1,0 +1,153 @@
+---
+layout: post
+title: "GitHub AI 热门项目日报 - 2026-06-20"
+date: 2026-06-20
+categories: [GitHub 开源 AI]
+tags: [GitHub 开源 热门项目 AI Agent LLM MCP]
+---
+
+> 🔥 每日精选 GitHub 上最热门的 AI、Agent、LLM 相关开源项目。
+
+## 1. [chopratejas/headroom](https://github.com/chopratejas/headroom) 🥇
+
+**Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.**
+
+- ⭐ **Stars:** 38,625
+- 🍴 **Forks:** 2,634
+- 📈 **今日新增:** 4,005 stars today
+- 🔗 **地址:** [chopratejas/headroom](https://github.com/chopratejas/headroom)
+
+---
+
+## 2. [google-research/timesfm](https://github.com/google-research/timesfm) 🥈
+
+**TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.**
+
+- ⭐ **Stars:** 24,074
+- 🍴 **Forks:** 2,270
+- 💻 **语言:** Python
+- 📈 **今日新增:** 1,510 stars today
+- 🔗 **地址:** [google-research/timesfm](https://github.com/google-research/timesfm)
+
+---
+
+## 3. [obra/superpowers](https://github.com/obra/superpowers) 🥉
+
+**An agentic skills framework & software development methodology that works.**
+
+- ⭐ **Stars:** 233,324
+- 🍴 **Forks:** 20,723
+- 💻 **语言:** Shell
+- 📈 **今日新增:** 1,110 stars today
+- 🔗 **地址:** [obra/superpowers](https://github.com/obra/superpowers)
+
+---
+
+## 4. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
+**High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.**
+
+- ⭐ **Stars:** 8,201
+- 🍴 **Forks:** 624
+- 💻 **语言:** C
+- 📈 **今日新增:** 1,058 stars today
+- 🔗 **地址:** [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
+---
+
+## 5. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+
+**macOS video editor built for AI**
+
+- ⭐ **Stars:** 1,880
+- 🍴 **Forks:** 187
+- 💻 **语言:** Swift
+- 📈 **今日新增:** 756 stars today
+- 🔗 **地址:** [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+
+---
+
+## 6. [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+
+**GLM-5: From Vibe Coding to Agentic Engineering**
+
+- ⭐ **Stars:** 4,574
+- 🍴 **Forks:** 461
+- 📈 **今日新增:** 480 stars today
+- 🔗 **地址:** [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+
+---
+
+## 7. [withastro/flue](https://github.com/withastro/flue)
+
+**The sandbox agent framework.**
+
+- ⭐ **Stars:** 5,828
+- 🍴 **Forks:** 323
+- 💻 **语言:** TypeScript
+- 📈 **今日新增:** 309 stars today
+- 🔗 **地址:** [withastro/flue](https://github.com/withastro/flue)
+
+---
+
+## 8. [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
+
+**Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.**
+
+- ⭐ **Stars:** 7,666
+- 🍴 **Forks:** 1,220
+- 💻 **语言:** Python
+- 📈 **今日新增:** 196 stars today
+- 🔗 **地址:** [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
+
+---
+
+## 9. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
+**World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.**
+
+- ⭐ **Stars:** 6,270
+- 🍴 **Forks:** 1,080
+- 💻 **语言:** Python
+- 📈 **今日新增:** 156 stars today
+- 🔗 **地址:** [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
+---
+
+## 10. [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
+**Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface**
+
+- ⭐ **Stars:** 57,221
+- 🍴 **Forks:** 9,135
+- 💻 **语言:** TypeScript
+- 📈 **今日新增:** 156 stars today
+- 🔗 **地址:** [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
+---
+
+## 11. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+
+**A framework for building agent-native applications.**
+
+- ⭐ **Stars:** 1,032
+- 🍴 **Forks:** 117
+- 💻 **语言:** TypeScript
+- 📈 **今日新增:** 147 stars today
+- 🔗 **地址:** [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+
+---
+
+## 12. [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+**A one stop repository for generative AI research updates, interview resources, notebooks and much more!**
+
+- ⭐ **Stars:** 27,608
+- 🍴 **Forks:** 5,738
+- 💻 **语言:** HTML
+- 📈 **今日新增:** 107 stars today
+- 🔗 **地址:** [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+---
+
+*生成时间: 2026-06-20 | 由 Hermes Agent 自动生成 🤖*
