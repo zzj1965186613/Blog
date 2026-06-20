@@ -1,0 +1,136 @@
+---
+layout: post
+title: "今日 GitHub 热门开源项目精选 - 2026-06-20"
+date: 2026-06-20
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 TypeScript Go JavaScript Python]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [tamnd/kage](https://github.com/tamnd/kage) 🥈
+
+**Shadow any website for offline viewing, with the JavaScript stripped out**
+
+- ⭐ **Stars:** 2,096
+- 🍴 **Forks:** 63
+- 💻 **语言:** Go
+- 📅 **创建日期:** 2026-06-14
+- 🔗 **地址:** [tamnd/kage](https://github.com/tamnd/kage)
+
+---
+
+## 2. [vercel/eve](https://github.com/vercel/eve) 🥈
+
+**The Framework for Building Agents**
+
+- ⭐ **Stars:** 1,645
+- 🍴 **Forks:** 106
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-16
+- 🏷️ **话题:** `agent`, `framework`, `harness`, `javascript`, `markdown`
+- 🔗 **地址:** [vercel/eve](https://github.com/vercel/eve)
+
+---
+
+## 3. [Waishnav/devspace](https://github.com/Waishnav/devspace) 🥈
+
+**Turn ChatGPT into Codex**
+
+- ⭐ **Stars:** 1,395
+- 🍴 **Forks:** 124
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-14
+- 🔗 **地址:** [Waishnav/devspace](https://github.com/Waishnav/devspace)
+
+---
+
+## 4. [alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book) ⭐
+
+**别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.**
+
+- ⭐ **Stars:** 701
+- 🍴 **Forks:** 60
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-15
+- 🔗 **地址:** [alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)
+
+---
+
+## 5. [Plaer1/junction](https://github.com/Plaer1/junction) ⭐
+
+**VS Code chat sidebar for local AI coding agents**
+
+- ⭐ **Stars:** 512
+- 🍴 **Forks:** 6
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-17
+- 🔗 **地址:** [Plaer1/junction](https://github.com/Plaer1/junction)
+
+---
+
+## 6. [fivetaku/fablize](https://github.com/fivetaku/fablize) ⭐
+
+**A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.**
+
+- ⭐ **Stars:** 503
+- 🍴 **Forks:** 73
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-14
+- 🏷️ **话题:** `agentic`, `anthropic`, `claude`, `claude-code`, `fable`
+- 🔗 **地址:** [fivetaku/fablize](https://github.com/fivetaku/fablize)
+
+---
+
+## 7. [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram) ⭐
+
+**ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded**
+
+- ⭐ **Stars:** 483
+- 🍴 **Forks:** 39
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-14
+- 🏷️ **话题:** `data-modeling`, `database`, `database-schema`, `dbdiagram`, `dbml`
+- 🔗 **地址:** [royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)
+
+---
+
+## 8. [rebel0789/codexpro](https://github.com/rebel0789/codexpro) ⭐
+
+**Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.**
+
+- ⭐ **Stars:** 440
+- 🍴 **Forks:** 40
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-16
+- 🏷️ **话题:** `apps-sdk`, `chatgpt`, `cloudflare-tunnel`, `codex`, `local-development`
+- 🔗 **地址:** [rebel0789/codexpro](https://github.com/rebel0789/codexpro)
+
+---
+
+## 9. [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) ⭐
+
+**Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.**
+
+- ⭐ **Stars:** 342
+- 🍴 **Forks:** 37
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-14
+- 🔗 **地址:** [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)
+
+---
+
+## 10. [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills) ⭐
+
+**司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents**
+
+- ⭐ **Stars:** 342
+- 🍴 **Forks:** 27
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-15
+- 🏷️ **话题:** `agent-memory`, `agent-skills`, `ai-agents`, `ai-coding-agent`, `claude-code`
+- 🔗 **地址:** [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)
+
+---
+
+*生成时间: 2026-06-20 09:00 | 由 Hermes Agent 自动生成 🤖*
