@@ -1,14 +1,14 @@
-﻿name: Daily AI Trending Update
+name: Daily AI Trending Update
 
 on:
   schedule:
-    # 姣忓ぉ鏃╀笂8鐐癸紙UTC鏃堕棿0鐐癸級鑷姩鎵ц
+    # Run daily at 8:00 AM (UTC 0:00)
     - cron: '0 0 * * *'
-  workflow_dispatch:  # 鍏佽鎵嬪姩瑙﹀彂
-
+  workflow_dispatch:
 
 permissions:
   contents: write
+
 jobs:
   update-blog:
     runs-on: ubuntu-latest
@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -31,10 +32,10 @@ jobs:
           TODAY=$(date +%Y-%m-%d)
           if ls _posts/${TODAY}* 1>/dev/null 2>&1; then
             echo "already_updated=true" >> $GITHUB_OUTPUT
-            echo "鉁?浠婃棩宸叉洿鏂帮紝璺宠繃"
+            echo "Already updated today, skipping."
           else
             echo "already_updated=false" >> $GITHUB_OUTPUT
-            echo "馃摑 闇€瑕佹洿鏂?
+            echo "Need to update."
           fi
 
       - name: Fetch GitHub Trending
@@ -77,7 +78,7 @@ jobs:
                       repo_url = f"https://github.com/{repo_path}"
 
                       desc_elem = article.select_one('p')
-                      description = desc_elem.text.strip() if desc_elem else "鏆傛棤鎻忚堪"
+                      description = desc_elem.text.strip() if desc_elem else "No description"
 
                       lang_elem = article.select_one('[itemprop="programmingLanguage"]')
                       language = lang_elem.text.strip() if lang_elem else "N/A"
@@ -127,30 +128,30 @@ jobs:
 
               content = f"""---
           layout: post
-          title: "GitHub AI 鐑棬椤圭洰鏃ユ姤 - {today}"
+          title: "GitHub AI Trending Daily - {today}"
           date: {today}
-          categories: [GitHub 寮€婧?AI]
-          tags: [GitHub 寮€婧?鐑棬椤圭洰 AI Agent LLM]
+          categories: [GitHub, AI]
+          tags: [GitHub, AI, Agent, LLM]
           ---
 
-          > 馃敟 姣忔棩绮鹃€?GitHub 涓婃渶鐑棬鐨?AI銆丄gent銆丩LM 鐩稿叧寮€婧愰」鐩紝甯綘鎶婃彙鎶€鏈剦鎼忋€?
+          > Daily curated list of the hottest AI, Agent, and LLM open-source projects on GitHub, helping you stay on top of tech trends.
 
-          ## 馃搮 浠婃棩鐑棬姒?
+          ## Trending Today
 
           """
 
               for i, p in enumerate(ai_projects, 1):
-                  medal = "馃" if i == 1 else "馃" if i == 2 else "馃" if i == 3 else f"#{i}"
-                  added_line = f"\n- 馃搱 **浠婃棩鏂板:** {p['added']}" if p['added'] else ""
+                  medal = ":trophy:" if i == 1 else ":second_place_medal:" if i == 2 else ":third_place_medal:" if i == 3 else f"#{i}"
+                  added_line = f"\n- :fire: **Added today:** {p['added']}" if p['added'] else ""
 
                   content += f"""## {medal} [{p['name']}]({p['url']})
 
           **{p['description']}**
 
-          - 猸?**Stars:** {p['stars']}
-          - 馃嵈 **Forks:** {p['forks']}
-          - 馃捇 **璇█:** {p['language']}{added_line}
-          - 馃敆 **鍦板潃:** [{p['name']}]({p['url']})
+          - :star2: **Stars:** {p['stars']}
+          - :fork_and_knife: **Forks:** {p['forks']}
+          - :speech_balloon: **Language:** {p['language']}{added_line}
+          - :link: **Link:** [{p['name']}]({p['url']})
 
           ---
 
@@ -159,17 +160,17 @@ jobs:
               content += f"""
           ---
 
-          *鏁版嵁鏉ユ簮: [GitHub Trending](https://github.com/trending)*
-          *鏇存柊鏃堕棿: {datetime.now().strftime("%Y-%m-%d %H:%M")}*
+          *Data source: [GitHub Trending](https://github.com/trending)*
+          *Updated: {datetime.now().strftime("%Y-%m-%d %H:%M")}*
           """
 
               return content
 
-          # 鎵ц
+          # Main
           html = fetch_trending()
           if html:
               projects = parse_trending(html)
-              print(f"馃搳 鍏辨姄鍙?{len(projects)} 涓」鐩?)
+              print(f"Fetched {len(projects)} projects")
 
               article = generate_article(projects)
 
@@ -179,9 +180,9 @@ jobs:
               with open(filename, 'w', encoding='utf-8') as f:
                   f.write(article)
 
-              print(f"鉁?鏂囩珷宸蹭繚瀛樺埌: {filename}")
+              print(f"Article saved to: {filename}")
           else:
-              print("鉂?鎶撳彇澶辫触")
+              print("Failed to fetch trending data")
               exit(1)
           PYTHON
 
@@ -193,16 +194,14 @@ jobs:
 
           TODAY=$(date +%Y-%m-%d)
           git add _posts/
-          git commit -m "馃摑 鏇存柊GitHub AI鐑棬椤圭洰鏃ユ姤 - ${TODAY}"
+          git commit -m "Update GitHub AI Trending Daily - ${TODAY}"
           git push
 
       - name: Summary
         run: |
           if [ "${{ steps.check.outputs.already_updated }}" == "true" ]; then
-            echo "鉁?浠婃棩宸叉洿鏂帮紝鏃犻渶鎿嶄綔"
+            echo "Already updated today, no action needed."
           else
-            echo "鉁?鎴愬姛鏇存柊GitHub AI鐑棬椤圭洰鏃ユ姤"
-            echo "馃敆 鏌ョ湅: https://zzj1965186613.github.io/Blog/"
+            echo "Successfully updated GitHub AI Trending Daily."
+            echo "View: https://zzj1965186613.github.io/Blog/"
           fi
-
-
