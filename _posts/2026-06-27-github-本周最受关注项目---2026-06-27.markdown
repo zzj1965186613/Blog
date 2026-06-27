@@ -1,0 +1,133 @@
+---
+layout: post
+title: "GitHub 本周最受关注项目 - 2026-06-27"
+date: 2026-06-27
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 Python C++ Swift Rust TypeScript]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) 🥈
+
+**Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）**
+
+- ⭐ **Stars:** 2,139
+- 🍴 **Forks:** 218
+- 💻 **语言:** HTML
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+
+---
+
+## 2. [kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 735
+- 🍴 **Forks:** 2
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-21
+- 🔗 **地址:** [kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)
+
+---
+
+## 3. [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) ⭐
+
+**Arma: Cold War Assault Remastered Source Code Repository.**
+
+- ⭐ **Stars:** 621
+- 🍴 **Forks:** 71
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)
+
+---
+
+## 4. [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) ⭐
+
+**Qwen-AgentWorld: Language World Models for General Agents**
+
+- ⭐ **Stars:** 566
+- 🍴 **Forks:** 51
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
+
+---
+
+## 5. [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐
+
+**A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.**
+
+- ⭐ **Stars:** 462
+- 🍴 **Forks:** 31
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-24
+- 🏷️ **话题:** `agent-evaluation`, `ai-agents`, `awesome`, `awesome-list`, `benchmarks`
+- 🔗 **地址:** [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)
+
+---
+
+## 6. [Yu9191/wloc](https://github.com/Yu9191/wloc) ⭐
+
+**修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位**
+
+- ⭐ **Stars:** 454
+- 🍴 **Forks:** 71
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [Yu9191/wloc](https://github.com/Yu9191/wloc)
+
+---
+
+## 7. [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) ⭐
+
+**"AgentSpace: Human + Agents. One Team. One Workspace"**
+
+- ⭐ **Stars:** 453
+- 🍴 **Forks:** 48
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)
+
+---
+
+## 8. [winsznx/theeleven](https://github.com/winsznx/theeleven) ⭐
+
+**Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.**
+
+- ⭐ **Stars:** 452
+- 🍴 **Forks:** 0
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `ai-agents`, `defi`, `eip-3009`, `erc-8257`, `football`
+- 🔗 **地址:** [winsznx/theeleven](https://github.com/winsznx/theeleven)
+
+---
+
+## 9. [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar) ⭐
+
+**A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.**
+
+- ⭐ **Stars:** 358
+- 🍴 **Forks:** 24
+- 💻 **语言:** Swift
+- 📅 **创建日期:** 2026-06-21
+- 🔗 **地址:** [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)
+
+---
+
+## 10. [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura) ⭐
+
+**A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.**
+
+- ⭐ **Stars:** 341
+- 🍴 **Forks:** 50
+- 💻 **语言:** Rust
+- 📅 **创建日期:** 2026-06-21
+- 🔗 **地址:** [Th0rgal/open_oura](https://github.com/Th0rgal/open_oura)
+
+---
+
+*生成时间: 2026-06-27 09:00 | 由 Hermes Agent 自动生成 🤖*
