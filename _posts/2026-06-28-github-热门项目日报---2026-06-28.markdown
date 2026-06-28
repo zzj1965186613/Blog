@@ -1,0 +1,133 @@
+---
+layout: post
+title: "GitHub 热门项目日报 - 2026-06-28"
+date: 2026-06-28
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 HTML C++ TypeScript Python JavaScript]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) 🥈
+
+**Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）**
+
+- ⭐ **Stars:** 2,216
+- 🍴 **Forks:** 221
+- 💻 **语言:** HTML
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+
+---
+
+## 2. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) 🥈
+
+**DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms**
+
+- ⭐ **Stars:** 1,359
+- 🍴 **Forks:** 116
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+
+---
+
+## 3. [bikini/exploitarium](https://github.com/bikini/exploitarium) 🥈
+
+**A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.**
+
+- ⭐ **Stars:** 1,228
+- 🍴 **Forks:** 254
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [bikini/exploitarium](https://github.com/bikini/exploitarium)
+
+---
+
+## 4. [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) ⭐
+
+**Arma: Cold War Assault Remastered Source Code Repository.**
+
+- ⭐ **Stars:** 662
+- 🍴 **Forks:** 77
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)
+
+---
+
+## 5. [Yu9191/wloc](https://github.com/Yu9191/wloc) ⭐
+
+**修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位**
+
+- ⭐ **Stars:** 647
+- 🍴 **Forks:** 91
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [Yu9191/wloc](https://github.com/Yu9191/wloc)
+
+---
+
+## 6. [winsznx/theeleven](https://github.com/winsznx/theeleven) ⭐
+
+**Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.**
+
+- ⭐ **Stars:** 643
+- 🍴 **Forks:** 2
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `ai-agents`, `defi`, `eip-3009`, `erc-8257`, `football`
+- 🔗 **地址:** [winsznx/theeleven](https://github.com/winsznx/theeleven)
+
+---
+
+## 7. [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) ⭐
+
+**Qwen-AgentWorld: Language World Models for General Agents**
+
+- ⭐ **Stars:** 597
+- 🍴 **Forks:** 53
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
+
+---
+
+## 8. [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐
+
+**A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.**
+
+- ⭐ **Stars:** 533
+- 🍴 **Forks:** 39
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-24
+- 🏷️ **话题:** `agent-evaluation`, `ai-agents`, `awesome`, `awesome-list`, `benchmarks`
+- 🔗 **地址:** [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)
+
+---
+
+## 9. [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) ⭐
+
+**"AgentSpace: Human + Agents. One Team. One Workspace"**
+
+- ⭐ **Stars:** 480
+- 🍴 **Forks:** 53
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-22
+- 🔗 **地址:** [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)
+
+---
+
+## 10. [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy) ⭐
+
+**这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型**
+
+- ⭐ **Stars:** 365
+- 🍴 **Forks:** 751
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)
+
+---
+
+*生成时间: 2026-06-28 10:09 | 由 Hermes Agent 自动生成 🤖*
