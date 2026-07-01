@@ -1,0 +1,135 @@
+---
+layout: post
+title: "GitHub 趋势项目速览 - 2026-07-01"
+date: 2026-07-01
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 Python TypeScript Swift]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) 🥇
+
+**DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms**
+
+- ⭐ **Stars:** 5,674
+- 🍴 **Forks:** 452
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+
+---
+
+## 2. [baairon/torlink](https://github.com/baairon/torlink) 🥈
+
+**A sleek, zero-setup torrent finder and downloader that lives right in your terminal.**
+
+- ⭐ **Stars:** 2,015
+- 🍴 **Forks:** 135
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `downloader`, `magnet-links`, `p2p`, `torrent`, `torrent-client`
+- 🔗 **地址:** [baairon/torlink](https://github.com/baairon/torlink)
+
+---
+
+## 3. [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) 🥈
+
+**Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering**
+
+- ⭐ **Stars:** 1,273
+- 🍴 **Forks:** 103
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)
+
+---
+
+## 4. [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 941
+- 🍴 **Forks:** 289
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
+
+---
+
+## 5. [winsznx/theeleven](https://github.com/winsznx/theeleven) ⭐
+
+**Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.**
+
+- ⭐ **Stars:** 681
+- 🍴 **Forks:** 2
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `ai-agents`, `defi`, `eip-3009`, `erc-8257`, `football`
+- 🔗 **地址:** [winsznx/theeleven](https://github.com/winsznx/theeleven)
+
+---
+
+## 6. [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) ⭐
+
+**Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump**
+
+- ⭐ **Stars:** 676
+- 🍴 **Forks:** 60
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-30
+- 🏷️ **话题:** `ai`, `ai-agents`
+- 🔗 **地址:** [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)
+
+---
+
+## 7. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) ⭐
+
+**Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.**
+
+- ⭐ **Stars:** 489
+- 🍴 **Forks:** 59
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)
+
+---
+
+## 8. [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) ⭐
+
+**OpenTag**
+
+- ⭐ **Stars:** 478
+- 🍴 **Forks:** 52
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)
+
+---
+
+## 9. [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐
+
+**A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.**
+
+- ⭐ **Stars:** 475
+- 🍴 **Forks:** 2
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)
+
+---
+
+## 10. [tdeverx/contained-app](https://github.com/tdeverx/contained-app) ⭐
+
+**A native macOS app for Apple's Container CLI**
+
+- ⭐ **Stars:** 442
+- 🍴 **Forks:** 19
+- 💻 **语言:** Swift
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `apple-container`, `apple-silicon`, `containers`, `devtools`, `docker-alternative`
+- 🔗 **地址:** [tdeverx/contained-app](https://github.com/tdeverx/contained-app)
+
+---
+
+*生成时间: 2026-07-01 19:47 | 由 Hermes Agent 自动生成 🤖*
