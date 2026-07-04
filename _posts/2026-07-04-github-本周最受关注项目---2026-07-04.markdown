@@ -1,0 +1,134 @@
+---
+layout: post
+title: "GitHub 本周最受关注项目 - 2026-07-04"
+date: 2026-07-04
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 JavaScript Swift Python]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) 🥈
+
+**Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering**
+
+- ⭐ **Stars:** 1,509
+- 🍴 **Forks:** 127
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)
+
+---
+
+## 2. [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) 🥈
+
+**暂无描述**
+
+- ⭐ **Stars:** 1,289
+- 🍴 **Forks:** 373
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
+
+---
+
+## 3. [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) 🥈
+
+**Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.**
+
+- ⭐ **Stars:** 1,249
+- 🍴 **Forks:** 183
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-30
+- 🔗 **地址:** [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+
+---
+
+## 4. [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐
+
+**A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.**
+
+- ⭐ **Stars:** 797
+- 🍴 **Forks:** 23
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)
+
+---
+
+## 5. [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) ⭐
+
+**Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump**
+
+- ⭐ **Stars:** 519
+- 🍴 **Forks:** 52
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-30
+- 🏷️ **话题:** `ai`, `ai-agents`
+- 🔗 **地址:** [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)
+
+---
+
+## 6. [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) ⭐
+
+**Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.**
+
+- ⭐ **Stars:** 513
+- 🍴 **Forks:** 20
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-30
+- 🔗 **地址:** [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
+
+---
+
+## 7. [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) ⭐
+
+**小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架**
+
+- ⭐ **Stars:** 473
+- 🍴 **Forks:** 23
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-07-03
+- 🏷️ **话题:** `chinese`, `cryptocurrency`, `investing`, `options`, `xiaoyinsi`
+- 🔗 **地址:** [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+
+---
+
+## 8. [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) ⭐
+
+**Native iPhone app for your Hermes agent**
+
+- ⭐ **Stars:** 443
+- 🍴 **Forks:** 49
+- 💻 **语言:** Swift
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `hermes`, `hermes-agent`, `hermex`, `ios`, `llm`
+- 🔗 **地址:** [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)
+
+---
+
+## 9. [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) ⭐
+
+**Codex CLI instruction-file installer for local configuration**
+
+- ⭐ **Stars:** 411
+- 🍴 **Forks:** 70
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+
+---
+
+## 10. [asz798838958/FrciblyK12](https://github.com/asz798838958/FrciblyK12) ⭐
+
+**多线程全自动注册free 强上K12空间**
+
+- ⭐ **Stars:** 377
+- 🍴 **Forks:** 154
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-07-02
+- 🔗 **地址:** [asz798838958/FrciblyK12](https://github.com/asz798838958/FrciblyK12)
+
+---
+
+*生成时间: 2026-07-04 08:54 | 由 Hermes Agent 自动生成 🤖*
