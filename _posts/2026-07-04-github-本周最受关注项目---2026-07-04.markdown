@@ -3,7 +3,7 @@ layout: post
 title: "GitHub 本周最受关注项目 - 2026-07-04"
 date: 2026-07-04
 categories: [GitHub 开源]
-tags: [GitHub 开源 热门项目 JavaScript Swift Python]
+tags: [GitHub 开源 热门项目 Swift JavaScript Python]
 ---
 
 > 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
@@ -25,7 +25,7 @@ tags: [GitHub 开源 热门项目 JavaScript Swift Python]
 **暂无描述**
 
 - ⭐ **Stars:** 1,289
-- 🍴 **Forks:** 373
+- 🍴 **Forks:** 374
 - 💻 **语言:** Python
 - 📅 **创建日期:** 2026-06-28
 - 🔗 **地址:** [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
@@ -73,7 +73,7 @@ tags: [GitHub 开源 热门项目 JavaScript Swift Python]
 
 **Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.**
 
-- ⭐ **Stars:** 513
+- ⭐ **Stars:** 514
 - 🍴 **Forks:** 20
 - 💻 **语言:** Python
 - 📅 **创建日期:** 2026-06-30
@@ -85,8 +85,8 @@ tags: [GitHub 开源 热门项目 JavaScript Swift Python]
 
 **小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架**
 
-- ⭐ **Stars:** 473
-- 🍴 **Forks:** 23
+- ⭐ **Stars:** 474
+- 🍴 **Forks:** 24
 - 💻 **语言:** N/A
 - 📅 **创建日期:** 2026-07-03
 - 🏷️ **话题:** `chinese`, `cryptocurrency`, `investing`, `options`, `xiaoyinsi`
@@ -98,7 +98,7 @@ tags: [GitHub 开源 热门项目 JavaScript Swift Python]
 
 **Native iPhone app for your Hermes agent**
 
-- ⭐ **Stars:** 443
+- ⭐ **Stars:** 444
 - 🍴 **Forks:** 49
 - 💻 **语言:** Swift
 - 📅 **创建日期:** 2026-07-02
@@ -131,4 +131,4 @@ tags: [GitHub 开源 热门项目 JavaScript Swift Python]
 
 ---
 
-*生成时间: 2026-07-04 08:54 | 由 Hermes Agent 自动生成 🤖*
+*生成时间: 2026-07-04 09:00 | 由 Hermes Agent 自动生成 🤖*

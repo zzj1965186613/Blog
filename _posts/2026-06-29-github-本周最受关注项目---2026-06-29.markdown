@@ -1,0 +1,133 @@
+---
+layout: post
+title: "GitHub 本周最受关注项目 - 2026-06-29"
+date: 2026-06-29
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 TypeScript Python JavaScript HTML]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) 🥈
+
+**DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms**
+
+- ⭐ **Stars:** 2,789
+- 🍴 **Forks:** 261
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+
+---
+
+## 2. [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) 🥈
+
+**Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）**
+
+- ⭐ **Stars:** 2,326
+- 🍴 **Forks:** 231
+- 💻 **语言:** HTML
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+
+---
+
+## 3. [Yu9191/wloc](https://github.com/Yu9191/wloc) 🥈
+
+**修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位**
+
+- ⭐ **Stars:** 1,333
+- 🍴 **Forks:** 170
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [Yu9191/wloc](https://github.com/Yu9191/wloc)
+
+---
+
+## 4. [winsznx/theeleven](https://github.com/winsznx/theeleven) ⭐
+
+**Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.**
+
+- ⭐ **Stars:** 710
+- 🍴 **Forks:** 2
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `ai-agents`, `defi`, `eip-3009`, `erc-8257`, `football`
+- 🔗 **地址:** [winsznx/theeleven](https://github.com/winsznx/theeleven)
+
+---
+
+## 5. [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) ⭐
+
+**Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering**
+
+- ⭐ **Stars:** 661
+- 🍴 **Forks:** 48
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)
+
+---
+
+## 6. [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐
+
+**A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.**
+
+- ⭐ **Stars:** 576
+- 🍴 **Forks:** 42
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-24
+- 🏷️ **话题:** `agent-evaluation`, `ai-agents`, `awesome`, `awesome-list`, `benchmarks`
+- 🔗 **地址:** [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)
+
+---
+
+## 7. [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx) ⭐
+
+**An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata**
+
+- ⭐ **Stars:** 513
+- 🍴 **Forks:** 58
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)
+
+---
+
+## 8. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) ⭐
+
+**Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.**
+
+- ⭐ **Stars:** 397
+- 🍴 **Forks:** 43
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)
+
+---
+
+## 9. [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy) ⭐
+
+**这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型**
+
+- ⭐ **Stars:** 386
+- 🍴 **Forks:** 763
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-23
+- 🔗 **地址:** [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)
+
+---
+
+## 10. [downclash/clash](https://github.com/downclash/clash) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 367
+- 🍴 **Forks:** 0
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-27
+- 🔗 **地址:** [downclash/clash](https://github.com/downclash/clash)
+
+---
+
+*生成时间: 2026-06-29 19:06 | 由 Hermes Agent 自动生成 🤖*

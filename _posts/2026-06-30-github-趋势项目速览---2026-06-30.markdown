@@ -1,0 +1,134 @@
+---
+layout: post
+title: "GitHub 趋势项目速览 - 2026-06-30"
+date: 2026-06-30
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 JavaScript TypeScript Python]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) 🥈
+
+**DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms**
+
+- ⭐ **Stars:** 4,692
+- 🍴 **Forks:** 388
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+
+---
+
+## 2. [Yu9191/wloc](https://github.com/Yu9191/wloc) 🥈
+
+**修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位**
+
+- ⭐ **Stars:** 1,758
+- 🍴 **Forks:** 244
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [Yu9191/wloc](https://github.com/Yu9191/wloc)
+
+---
+
+## 3. [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) 🥈
+
+**Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering**
+
+- ⭐ **Stars:** 1,078
+- 🍴 **Forks:** 82
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)
+
+---
+
+## 4. [baairon/torlink](https://github.com/baairon/torlink) ⭐
+
+**A sleek, zero-setup torrent finder and downloader that lives right in your terminal.**
+
+- ⭐ **Stars:** 921
+- 🍴 **Forks:** 54
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `downloader`, `magnet-links`, `p2p`, `torrent`, `torrent-client`
+- 🔗 **地址:** [baairon/torlink](https://github.com/baairon/torlink)
+
+---
+
+## 5. [winsznx/theeleven](https://github.com/winsznx/theeleven) ⭐
+
+**Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.**
+
+- ⭐ **Stars:** 716
+- 🍴 **Forks:** 2
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-25
+- 🏷️ **话题:** `ai-agents`, `defi`, `eip-3009`, `erc-8257`, `football`
+- 🔗 **地址:** [winsznx/theeleven](https://github.com/winsznx/theeleven)
+
+---
+
+## 6. [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 651
+- 🍴 **Forks:** 207
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-28
+- 🔗 **地址:** [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
+
+---
+
+## 7. [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐
+
+**A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.**
+
+- ⭐ **Stars:** 594
+- 🍴 **Forks:** 41
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-06-24
+- 🏷️ **话题:** `agent-evaluation`, `ai-agents`, `awesome`, `awesome-list`, `benchmarks`
+- 🔗 **地址:** [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)
+
+---
+
+## 8. [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx) ⭐
+
+**An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata**
+
+- ⭐ **Stars:** 582
+- 🍴 **Forks:** 68
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-24
+- 🔗 **地址:** [AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)
+
+---
+
+## 9. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) ⭐
+
+**Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.**
+
+- ⭐ **Stars:** 475
+- 🍴 **Forks:** 58
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)
+
+---
+
+## 10. [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) ⭐
+
+**OpenTag**
+
+- ⭐ **Stars:** 425
+- 🍴 **Forks:** 47
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-06-26
+- 🔗 **地址:** [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)
+
+---
+
+*生成时间: 2026-06-30 18:53 | 由 Hermes Agent 自动生成 🤖*
