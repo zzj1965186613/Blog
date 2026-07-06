@@ -1,0 +1,136 @@
+---
+layout: post
+title: "GitHub 本周最受关注项目 - 2026-07-06"
+date: 2026-07-06
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 Swift JavaScript Python TypeScript Shell]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) 🥈
+
+**autonomous red teaming platform; multi-agent offensive-security meta-harness**
+
+- ⭐ **Stars:** 1,989
+- 🍴 **Forks:** 486
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `agents`, `ai`, `multi-agent`, `offensive-security`, `redteam`
+- 🔗 **地址:** [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+
+---
+
+## 2. [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) 🥈
+
+**Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.**
+
+- ⭐ **Stars:** 1,374
+- 🍴 **Forks:** 209
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-06-30
+- 🔗 **地址:** [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+
+---
+
+## 3. [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) 🥈
+
+**Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.**
+
+- ⭐ **Stars:** 1,075
+- 🍴 **Forks:** 63
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-06-30
+- 🔗 **地址:** [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
+
+---
+
+## 4. [jamesob/local-llm](https://github.com/jamesob/local-llm) ⭐
+
+**Everything I know about running LLMs locally**
+
+- ⭐ **Stars:** 957
+- 🍴 **Forks:** 57
+- 💻 **语言:** Shell
+- 📅 **创建日期:** 2026-07-03
+- 🔗 **地址:** [jamesob/local-llm](https://github.com/jamesob/local-llm)
+
+---
+
+## 5. [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) ⭐
+
+**Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.**
+
+- ⭐ **Stars:** 919
+- 🍴 **Forks:** 62
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-07-04
+- 🏷️ **话题:** `apple-silicon`, `command-and-conquer`, `dxvk`, `game-port`, `generals-zero-hour`
+- 🔗 **地址:** [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
+
+---
+
+## 6. [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) ⭐
+
+**小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架**
+
+- ⭐ **Stars:** 728
+- 🍴 **Forks:** 39
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-07-03
+- 🏷️ **话题:** `chinese`, `cryptocurrency`, `investing`, `options`, `xiaoyinsi`
+- 🔗 **地址:** [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+
+---
+
+## 7. [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) ⭐
+
+**GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.**
+
+- ⭐ **Stars:** 704
+- 🍴 **Forks:** 12
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `ai`, `distributed-computing`, `gpu`, `llm`, `ollama`
+- 🔗 **地址:** [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)
+
+---
+
+## 8. [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) ⭐
+
+**Native iPhone app for your Hermes agent**
+
+- ⭐ **Stars:** 633
+- 🍴 **Forks:** 66
+- 💻 **语言:** Swift
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `hermes`, `hermes-agent`, `hermex`, `ios`, `llm`
+- 🔗 **地址:** [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)
+
+---
+
+## 9. [Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet) ⭐
+
+**Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.**
+
+- ⭐ **Stars:** 592
+- 🍴 **Forks:** 1
+- 💻 **语言:** Shell
+- 📅 **创建日期:** 2026-07-03
+- 🔗 **地址:** [Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)
+
+---
+
+## 10. [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) ⭐
+
+**暂无描述**
+
+- ⭐ **Stars:** 573
+- 🍴 **Forks:** 57
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-07-02
+- 🔗 **地址:** [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude)
+
+---
+
+*生成时间: 2026-07-06 16:25 | 由 Hermes Agent 自动生成 🤖*
