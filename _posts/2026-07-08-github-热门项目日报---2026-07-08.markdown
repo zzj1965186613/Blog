@@ -1,0 +1,137 @@
+---
+layout: post
+title: "GitHub 热门项目日报 - 2026-07-08"
+date: 2026-07-08
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 Python Shell C++ JavaScript TypeScript]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) 🥈
+
+**autonomous red teaming platform; multi-agent offensive-security meta-harness**
+
+- ⭐ **Stars:** 3,600
+- 🍴 **Forks:** 797
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `agents`, `ai`, `multi-agent`, `offensive-security`, `redteam`
+- 🔗 **地址:** [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+
+---
+
+## 2. [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) 🥈
+
+**The open-source AI workbench for scientific research**
+
+- ⭐ **Stars:** 1,597
+- 🍴 **Forks:** 220
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-07-03
+- 🏷️ **话题:** `agent`, `ai`, `ai-agent`, `bun`, `cli`
+- 🔗 **地址:** [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)
+
+---
+
+## 3. [x4gKing/X4G](https://github.com/x4gKing/X4G) 🥈
+
+**暂无描述**
+
+- ⭐ **Stars:** 1,447
+- 🍴 **Forks:** 3,041
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-07-04
+- 🔗 **地址:** [x4gKing/X4G](https://github.com/x4gKing/X4G)
+
+---
+
+## 4. [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) 🥈
+
+**Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.**
+
+- ⭐ **Stars:** 1,328
+- 🍴 **Forks:** 106
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-07-04
+- 🏷️ **话题:** `apple-silicon`, `command-and-conquer`, `dxvk`, `game-port`, `generals-zero-hour`
+- 🔗 **地址:** [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
+
+---
+
+## 5. [jamesob/local-llm](https://github.com/jamesob/local-llm) 🥈
+
+**Everything I know about running LLMs locally**
+
+- ⭐ **Stars:** 1,228
+- 🍴 **Forks:** 73
+- 💻 **语言:** Shell
+- 📅 **创建日期:** 2026-07-03
+- 🔗 **地址:** [jamesob/local-llm](https://github.com/jamesob/local-llm)
+
+---
+
+## 6. [Shpigford/knockoff](https://github.com/Shpigford/knockoff) 🥈
+
+**Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.**
+
+- ⭐ **Stars:** 1,198
+- 🍴 **Forks:** 33
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-07-06
+- 🏷️ **话题:** `amazon`, `browser-extension`, `chrome-extension`
+- 🔗 **地址:** [Shpigford/knockoff](https://github.com/Shpigford/knockoff)
+
+---
+
+## 7. [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) 🥈
+
+**The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand**
+
+- ⭐ **Stars:** 1,130
+- 🍴 **Forks:** 80
+- 💻 **语言:** Rust
+- 📅 **创建日期:** 2026-07-05
+- 🔗 **地址:** [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
+
+---
+
+## 8. [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) 🥈
+
+**小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架**
+
+- ⭐ **Stars:** 1,027
+- 🍴 **Forks:** 56
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-07-03
+- 🏷️ **话题:** `chinese`, `cryptocurrency`, `investing`, `options`, `xiaoyinsi`
+- 🔗 **地址:** [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
+
+---
+
+## 9. [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) ⭐
+
+** Companion code for the global workspace interpretability paper**
+
+- ⭐ **Stars:** 747
+- 🍴 **Forks:** 108
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-07-02
+- 🔗 **地址:** [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+
+---
+
+## 10. [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos) ⭐
+
+**GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.**
+
+- ⭐ **Stars:** 721
+- 🍴 **Forks:** 13
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-07-02
+- 🏷️ **话题:** `ai`, `distributed-computing`, `gpu`, `llm`, `ollama`
+- 🔗 **地址:** [jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)
+
+---
+
+*生成时间: 2026-07-08 19:25 | 由 Hermes Agent 自动生成 🤖*
