@@ -1,0 +1,135 @@
+---
+layout: post
+title: "今日 GitHub 热门开源项目精选 - 2026-10-21"
+date: 2026-10-21
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 Java Python C C++ Kotlin]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) 🏆
+
+**DeepInfer: High-performance, large-scale inference framework for DeepSeek models**
+
+- ⭐ **Stars:** 16,209
+- 🍴 **Forks:** 1,606
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-16
+- 🔗 **地址:** [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+
+---
+
+## 2. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🏆
+
+**Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.**
+
+- ⭐ **Stars:** 14,864
+- 🍴 **Forks:** 1,642
+- 💻 **语言:** Java
+- 📅 **创建日期:** 2026-10-17
+- 🏷️ **话题:** `adb`, `adblock`, `android-tv`, `android-tv-launcher`, `apple-tv`
+- 🔗 **地址:** [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+
+---
+
+## 3. [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) 🥈
+
+**暂无描述**
+
+- ⭐ **Stars:** 3,252
+- 🍴 **Forks:** 466
+- 💻 **语言:** C
+- 📅 **创建日期:** 2026-10-17
+- 🔗 **地址:** [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
+
+---
+
+## 4. [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) 🥈
+
+**A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.**
+
+- ⭐ **Stars:** 2,176
+- 🍴 **Forks:** 225
+- 💻 **语言:** Java
+- 📅 **创建日期:** 2026-10-19
+- 🏷️ **话题:** `android-tv`, `claude-code`, `google-tv`, `home-screen`, `launcher`
+- 🔗 **地址:** [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
+
+---
+
+## 5. [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) 🥈
+
+**Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.**
+
+- ⭐ **Stars:** 2,020
+- 🍴 **Forks:** 115
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-15
+- 🏷️ **话题:** `ai-agents`, `audio`, `claude-code`, `mcp`, `sound-design`
+- 🔗 **地址:** [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)
+
+---
+
+## 6. [chenglou/handwired](https://github.com/chenglou/handwired) 🥈
+
+**Turn your regular JavaScript code into a neural net.**
+
+- ⭐ **Stars:** 1,864
+- 🍴 **Forks:** 155
+- 💻 **语言:** TypeScript
+- 📅 **创建日期:** 2026-10-15
+- 🔗 **地址:** [chenglou/handwired](https://github.com/chenglou/handwired)
+
+---
+
+## 7. [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) 🥈
+
+**中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断**
+
+- ⭐ **Stars:** 1,809
+- 🍴 **Forks:** 403
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-18
+- 🏷️ **话题:** `chinese`, `curriculum`, `diagnostic`, `edtech`, `education`
+- 🔗 **地址:** [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)
+
+---
+
+## 8. [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) 🥈
+
+**Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo**
+
+- ⭐ **Stars:** 1,744
+- 🍴 **Forks:** 94
+- 💻 **语言:** C++
+- 📅 **创建日期:** 2026-10-15
+- 🔗 **地址:** [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)
+
+---
+
+## 9. [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) 🥈
+
+**给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.**
+
+- ⭐ **Stars:** 1,527
+- 🍴 **Forks:** 96
+- 💻 **语言:** Kotlin
+- 📅 **创建日期:** 2026-10-20
+- 🔗 **地址:** [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
+
+---
+
+## 10. [aicodeking/leanrea](https://github.com/aicodeking/leanrea) 🥈
+
+**One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.**
+
+- ⭐ **Stars:** 1,220
+- 🍴 **Forks:** 185
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-17
+- 🔗 **地址:** [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
+
+---
+
+*生成时间: 2026-10-21 17:33 | 由 Hermes Agent 自动生成 🤖*
