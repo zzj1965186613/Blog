@@ -1,0 +1,138 @@
+---
+layout: post
+title: "今日 GitHub 热门开源项目精选 - 2026-10-23"
+date: 2026-10-23
+categories: [GitHub 开源]
+tags: [GitHub 开源 热门项目 C Assembly Java JavaScript Python]
+---
+
+> 每日精选 GitHub 上最新最热门的开源项目，帮你发现值得关注的开发者工具和技术趋势。
+
+## 1. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 🏆
+
+**Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.**
+
+- ⭐ **Stars:** 25,980
+- 🍴 **Forks:** 2,846
+- 💻 **语言:** Java
+- 📅 **创建日期:** 2026-10-17
+- 🏷️ **话题:** `adb`, `adblock`, `android-tv`, `android-tv-launcher`, `apple-tv`
+- 🔗 **地址:** [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+
+---
+
+## 2. [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) 🥈
+
+**暂无描述**
+
+- ⭐ **Stars:** 4,691
+- 🍴 **Forks:** 661
+- 💻 **语言:** C
+- 📅 **创建日期:** 2026-10-17
+- 🔗 **地址:** [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
+
+---
+
+## 3. [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) 🥈
+
+**A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.**
+
+- ⭐ **Stars:** 3,644
+- 🍴 **Forks:** 521
+- 💻 **语言:** Java
+- 📅 **创建日期:** 2026-10-19
+- 🏷️ **话题:** `android-tv`, `claude-code`, `google-tv`, `home-screen`, `launcher`
+- 🔗 **地址:** [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
+
+---
+
+## 4. [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) 🥈
+
+**给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.**
+
+- ⭐ **Stars:** 3,542
+- 🍴 **Forks:** 256
+- 💻 **语言:** Kotlin
+- 📅 **创建日期:** 2026-10-20
+- 🔗 **地址:** [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
+
+---
+
+## 5. [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) 🥈
+
+**数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。**
+
+- ⭐ **Stars:** 2,562
+- 🍴 **Forks:** 581
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-18
+- 🏷️ **话题:** `chinese`, `curriculum`, `diagnostic`, `edtech`, `education`
+- 🔗 **地址:** [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy)
+
+---
+
+## 6. [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang) 🥈
+
+**The 100% Pure x86-64 Assembly Systems Language**
+
+- ⭐ **Stars:** 1,913
+- 🍴 **Forks:** 6
+- 💻 **语言:** Assembly
+- 📅 **创建日期:** 2026-10-19
+- 🏷️ **话题:** `assembler`, `assembly`, `assembly-lang`, `assembly-language`, `assembly-language-programming`
+- 🔗 **地址:** [tek-sys-hub/Rubix-lang](https://github.com/tek-sys-hub/Rubix-lang)
+
+---
+
+## 7. [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) 🥈
+
+**CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.**
+
+- ⭐ **Stars:** 1,618
+- 🍴 **Forks:** 569
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-21
+- 🏷️ **话题:** `cve-2026-109618`, `cve-2026-109619`, `detection-rules`, `exploit`, `php-exploit`
+- 🔗 **地址:** [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
+
+---
+
+## 8. [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) 🥈
+
+**REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program**
+
+- ⭐ **Stars:** 1,539
+- 🍴 **Forks:** 235
+- 💻 **语言:** N/A
+- 📅 **创建日期:** 2026-10-19
+- 🏷️ **话题:** `prompt-engineering`, `rea`, `reverse-enginnering`
+- 🔗 **地址:** [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)
+
+---
+
+## 9. [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) 🥈
+
+**让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.**
+
+- ⭐ **Stars:** 1,494
+- 🍴 **Forks:** 146
+- 💻 **语言:** JavaScript
+- 📅 **创建日期:** 2026-10-18
+- 🏷️ **话题:** `agent-skills`, `animation`, `claude-code`, `codex`, `gsap`
+- 🔗 **地址:** [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)
+
+---
+
+## 10. [aicodeking/leanrea](https://github.com/aicodeking/leanrea) 🥈
+
+**One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.**
+
+- ⭐ **Stars:** 1,487
+- 🍴 **Forks:** 223
+- 💻 **语言:** Python
+- 📅 **创建日期:** 2026-10-17
+- 🔗 **地址:** [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
+
+---
+
+*生成时间: 2026-10-23 17:53 | 由 Hermes Agent 自动生成 🤖*
